@@ -542,11 +542,5 @@ square_9.addEventListener("click",function() {
 );
 
 restartBtn.addEventListener("click",restart);
-
-<<<<<<< HEAD
-
-=======
-//Deu certo
->>>>>>> main
     
 
